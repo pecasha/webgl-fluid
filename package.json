@@ -1,0 +1,22 @@
+{
+    "name": "webgl-fluid",
+    "version": "1.0.0",
+    "description": "Fluid effects on miaoda homepage",
+    "license": "MIT",
+    "homepage": "https://pecasha.github.io/webgl-fluid",
+    "author": {
+        "name": "Pecasha",
+        "url": "https://github.com/pecasha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pecasha/webgl-fluid.git"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "vite": "^6.2.3"
+    }
+}
